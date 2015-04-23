@@ -1,4 +1,4 @@
-package ru.litsey2.robo.tatarlinefollower;
+package ru.litsey2.robo.tatarliner;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

@@ -1,11 +1,10 @@
-package ru.litsey2.robo.tatarlinefollower;
+package ru.litsey2.robo.tatarliner;
 
 import java.io.IOException;
 
 import lejos.nxt.Button;
 import lejos.nxt.ColorSensor;
 import lejos.nxt.Motor;
-import lejos.nxt.NXT;
 import lejos.nxt.NXTRegulatedMotor;
 import lejos.nxt.SensorPort;
 import lejos.nxt.Sound;
